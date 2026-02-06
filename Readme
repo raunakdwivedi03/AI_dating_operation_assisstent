@@ -1,0 +1,16 @@
+# ❤️ AI Dating Operations Assistant
+
+AI-powered dating bio generator built using a **multi-agent architecture**
+(Planner → Executor → Verifier) and a **Large Language Model (LLM)**.
+
+The project runs completely **locally on localhost** and produces a
+full end-to-end result from user input to final dating bio.
+
+---
+
+## 🚀 Setup Instructions (Run Locally on localhost)
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/raunakdwivedi03/ai-dating-operations-assistant.git
+cd ai-dating-operations-assistant
